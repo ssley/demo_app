@@ -43,6 +43,8 @@ end
 
 gem 'protected_attributes'
 
+gem 'rails_12factor'
+
 group :development do
   gem "sqlite3"
 end
